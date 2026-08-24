@@ -1,11 +1,7 @@
 # EmployeeManagementSystem
 Employee Management System REST API using Spring Boot, Spring Data JPA and MySQL
 
-
-
-Employee Management System
-
-Features
+Features of EMS
 - Create employee
 - Get employee by ID
 - Get all employees
@@ -25,6 +21,7 @@ Technologies
 - Swagger/OpenAPI
 
 API Endpoints
+
 POST   /api/employees
 GET    /api/employees
 GET    /api/employees/{id}
